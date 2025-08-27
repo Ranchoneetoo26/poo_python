@@ -62,5 +62,8 @@ if idade_tio_paulo >= 15 or idade_tia_maria >= 18:
 else:
     print('tio paulo e maria sao menores de idade: ')
     
+######################## aula 27/08 #############################3
+
+    
 
 
